@@ -1,5 +1,9 @@
 # qtlab_drivers
-Instrument drivers for qtlab in the University of Groningen spintronics lab
+Instrument drivers for qtlab in the University of Groningen spintronics lab.
+
+IMPORTANT: All drivers are based on pyvisa version 1.4, and are NOT directly compatible with version 1.5 or higher.
+Check pyvisa documentation for porting instructions.
+
 
 Instrument drivers for:
 Cryogenic Limited SMS magnet power supply      - current source for superconducting coils
